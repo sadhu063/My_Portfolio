@@ -1,0 +1,17 @@
+{
+  "name": "hostingwebsite",
+  "version": "1.0.0",
+  "description": "this one for to practice",
+  "main": "index.js",
+  "scripts": {
+    "sass": "node-sass -w scss/ -o dist/css/ --recursive"
+  },
+  "author": "sadhucharan",
+  "license": "ISC",
+  "devDependencies": {
+    "node-sass": "^4.12.0"
+  },
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
